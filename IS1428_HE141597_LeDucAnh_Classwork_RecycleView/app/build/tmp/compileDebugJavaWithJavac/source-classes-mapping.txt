@@ -1,0 +1,12 @@
+com/example/classwork_recycleview/Categories.java
+ com.example.classwork_recycleview.Categories
+com/example/classwork_recycleview/BuildConfig.java
+ com.example.classwork_recycleview.BuildConfig
+com/example/classwork_recycleview/DetailActivity.java
+ com.example.classwork_recycleview.DetailActivity
+com/example/classwork_recycleview/MainActivity.java
+ com.example.classwork_recycleview.MainActivity
+com/example/classwork_recycleview/CategoriesAdapter.java
+ com.example.classwork_recycleview.CategoriesAdapter
+ com.example.classwork_recycleview.CategoriesAdapter$1
+ com.example.classwork_recycleview.CategoriesAdapter$CategoriesViewHolder
